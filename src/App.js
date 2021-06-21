@@ -1,5 +1,6 @@
 import React from 'react';
-import {StyleSheet, View} from 'react-native';
+import {StyleSheet, Text, View, Image, TextInput} from 'react-native';
+import Color from './theme/colors';
 
 const App = () => {
     return (
